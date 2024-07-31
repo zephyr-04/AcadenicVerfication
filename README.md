@@ -6,3 +6,13 @@ This project implements a decentralized application (DApp) for verifying academi
 - Credential Management: Institutions can issue, update, and revoke academic credentials.
 - Verification: Third parties can verify the authenticity and details of academic credentials.
 - Event Logging: Key actions such as credential issuance, revocation, and updates are logged via events.
+
+
+## Getting Started
+
+### Prerequisites
+
+- MetaMask extension for your browser
+- Remix IDE
+- Node.js installed on your machine
+- Infura account for Ethereum node access
